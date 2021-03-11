@@ -1,0 +1,23 @@
+<h1> WELCOME TO WIKI PAGE</h1>
+<%= form_with model :user do |form|%>
+<%form.label :username, "Username: "%>
+<%= form.text_field :username, placeholder="Enter your username"%><br/>
+<%= form.label  :email, "Email"%>
+<%= form.text_field :email , placeholder="Enter your email address"%><br/>
+<%= form.label  :password, "Password"%>
+<%= form.password_field :password , placeholder="enter your password"%>
+<%= form.submit "Submit"%>
+
+<% if @user.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@user.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% @user.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+<% end %>
