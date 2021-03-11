@@ -9,12 +9,12 @@ This is an active record project built to reflect active record association(mode
 - [x] Create migration files with required foreign keys.
 
 # Screenshoot
-![demo3](https://user-images.githubusercontent.com/11162987/110584149-d20f9b80-817f-11eb-82ed-c6257602f3ed.JPG)
+<!-- ![demo3](https://user-images.githubusercontent.com/11162987/110584149-d20f9b80-817f-11eb-82ed-c6257602f3ed.JPG)
 ![demo4](https://user-images.githubusercontent.com/11162987/110584158-d3d95f00-817f-11eb-9c4a-471b83ba33a3.JPG)
 ![demo5](https://user-images.githubusercontent.com/11162987/110584161-d3d95f00-817f-11eb-9d58-6bdf9d1b9f4e.JPG)
 ![demo1](https://user-images.githubusercontent.com/11162987/110584162-d471f580-817f-11eb-83f6-9fd17f0f7bbc.JPG)
 ![demo2](https://user-images.githubusercontent.com/11162987/110584164-d50a8c00-817f-11eb-851e-00081e00a1ea.JPG)
-![post_body](https://user-images.githubusercontent.com/11162987/110599232-b615f500-8193-11eb-92c5-6a34d54fead1.JPG)
+![post_body](https://user-images.githubusercontent.com/11162987/110599232-b615f500-8193-11eb-92c5-6a34d54fead1.JPG) -->
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
