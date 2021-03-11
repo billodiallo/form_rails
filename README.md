@@ -1,4 +1,13 @@
+# README
+In this project we built some forms on Rails.
+About The Project
+This project consist on a Ruby on Rails server that includes Controls, Views and Models to create an User with 3 parametters: Username, Email and Password. These parametters are validated through the Model, and the user can create new users and update existing users using the url http://localhost:3000/users/new and http://localhost:3000/user/{id}/edit/
 
+## Built With
+This progam was made using this technologies
+- Ruby
+- Ruby on Rails
+- 
 
 <!-- ABOUT THE PROJECT -->
 ## Installation
