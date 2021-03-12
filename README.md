@@ -21,16 +21,16 @@ This project consist on a Ruby on Rails server that includes Controls, Views and
 
 To use THIS ACTIVE record project :
 * Have ruby installed in your computer
-* [Download]https://github.com/billodiallo/micro-reddit) or clone this repo:
+* [Download]https://github.com/billodiallo/form_rails/) or clone this repo:
   - Clone with SSH:
   ```
-  git@github.com:billodiallo/micro-reddit.git
+  git@github.com:billodiallo/form_rails.git
   ```
 - Clone with HTTPS
   ```
-    https://github.com/billodiallo/micro-reddit.git
+    https://github.com/billodiallo/form_rails.git
   ```
-* `cd` into `micro-reddit` directory and run `bundle install`
+* `cd` into `form_rails` directory and run `bundle install`
 
 ## Built With
 - Ruby
