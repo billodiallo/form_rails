@@ -22,11 +22,6 @@ This project consist on a Ruby on Rails server that includes Controls, Views and
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
 <!-- ABOUT THE PROJECT -->
 ## Installation
 
