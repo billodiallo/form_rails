@@ -1,20 +1,13 @@
-# Active Records Project
+# Ruby on Rails Forms
 This is an active record project built to reflect active record association(models associations) and validations.
 #### Did the following tasks:
 
-- [x] Created a User model
-- [x] Created a Post model
-- [x] Created a Comment model
-- [x] Adjust associations between models
-- [x] Create migration files with required foreign keys.
+This project consist on a Ruby on Rails server that includes Controls, Views and Models to create an User with 3 parametters: Username, Email and Password. These parametters are validated through the Model, and the user can create new users and update existing users using the url http://localhost:3000/users/new and http://localhost:3000/user/{id}/edit/
 
-# Screenshoot
-<!-- ![demo3](https://user-images.githubusercontent.com/11162987/110584149-d20f9b80-817f-11eb-82ed-c6257602f3ed.JPG)
-![demo4](https://user-images.githubusercontent.com/11162987/110584158-d3d95f00-817f-11eb-9c4a-471b83ba33a3.JPG)
-![demo5](https://user-images.githubusercontent.com/11162987/110584161-d3d95f00-817f-11eb-9d58-6bdf9d1b9f4e.JPG)
-![demo1](https://user-images.githubusercontent.com/11162987/110584162-d471f580-817f-11eb-83f6-9fd17f0f7bbc.JPG)
-![demo2](https://user-images.githubusercontent.com/11162987/110584164-d50a8c00-817f-11eb-851e-00081e00a1ea.JPG)
-![post_body](https://user-images.githubusercontent.com/11162987/110599232-b615f500-8193-11eb-92c5-6a34d54fead1.JPG) -->
+## Screenshoot
+![formdata1](https://user-images.githubusercontent.com/11162987/110908539-0457ff00-8320-11eb-9a24-48505689fbb7.JPG)
+![form_data2](https://user-images.githubusercontent.com/11162987/110908543-06ba5900-8320-11eb-9a22-b2c6ca18c390.JPG)
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -22,11 +15,6 @@ This is an active record project built to reflect active record association(mode
 * [Built With](#built-with)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 
 <!-- ABOUT THE PROJECT -->
 ## Installation
@@ -44,16 +32,14 @@ To use THIS ACTIVE record project :
   ```
 * `cd` into `micro-reddit` directory and run `bundle install`
 
+## Built With
+- Ruby
+- Ruby on Rails
 
-
-### Built With
-Ruby on rails
-
-### Run app
+## Run app
 - Type bundle install in the root file of the project.
 - Type rails db:migrate in the root file of the project.
 - Type rails s in the root file of the project.
-
 
 <!-- CONTACT -->
 ## Contact
