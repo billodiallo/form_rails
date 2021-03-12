@@ -26,7 +26,7 @@ class UsersController < ApplicationController
 
     if @user.update(user_params)
       p @user.errors
-      redirect_to @user
+      redirect_to edit_user_path(@user)
     else
       render :edit
     end

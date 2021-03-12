@@ -5,6 +5,7 @@ This is an active record project built to reflect active record association(mode
 This project consist on a Ruby on Rails server that includes Controls, Views and Models to create an User with 3 parametters: Username, Email and Password. These parametters are validated through the Model, and the user can create new users and update existing users using the url http://localhost:3000/users/new and http://localhost:3000/user/{id}/edit/
 
 ## Screenshoot
+![FFORM1](https://user-images.githubusercontent.com/11162987/110925238-fe6c1900-8333-11eb-991e-829757a9c6ce.JPG)
 ![formdata1](https://user-images.githubusercontent.com/11162987/110908539-0457ff00-8320-11eb-9a24-48505689fbb7.JPG)
 ![form_data2](https://user-images.githubusercontent.com/11162987/110908543-06ba5900-8320-11eb-9a22-b2c6ca18c390.JPG)
 

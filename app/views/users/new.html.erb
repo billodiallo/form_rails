@@ -1,4 +1,25 @@
 
+<!--
+<form action="users_path" method="post" accept-charset="UTF-8">
+  <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="user[username]"><br /><br />
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="user[email]"><br /><br />
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="user[password]"><br /><br />
+  <input type="submit" value="Submit">
+</form>
+<%= form_tag(users_path) do %> 
+  <%= label_tag 'username' %>
+  <%= text_field_tag 'username'%> <br/><br/>
+  <%= label_tag 'email' %>
+  <%= text_field_tag 'email' %> <br/><br/>
+  <%= label_tag 'password' %>
+  <%= password_field_tag 'password' %><br/><br/>
+  <div><%= submit_tag 'Save' %></div>
+<% end %>
+-->
 <div class="container">
 <div class="col-6 mx-auto">
 <h1> WELCOME TO WIKI PAGE</h1>
