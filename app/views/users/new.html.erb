@@ -1,12 +1,15 @@
+
+<div class="container">
+<div class="col-6 mx-auto">
 <h1> WELCOME TO WIKI PAGE</h1>
-<%= form_with model :user do |form|%>
-<%form.label :username, "Username: "%>
-<%= form.text_field :username, placeholder="Enter your username"%><br/>
-<%= form.label  :email, "Email"%>
-<%= form.text_field :email , placeholder="Enter your email address"%><br/>
-<%= form.label  :password, "Password"%>
-<%= form.password_field :password , placeholder="enter your password"%>
-<%= form.submit "Submit"%>
-
+<%= form_with model: @user do |form|%>
+<%= form.label :username %>
+<%= form.text_field :username ,class:"form-control", placeholder: "Enter your username" %><br>
+<%= form.label :email, "E-mail: "%>
+<%= form.text_field :email, class:"form-control",placeholder: "Enter your email"%><br>
+<%= form.label :password, "Password: "%>
+<%= form.password_field :password,class:"form-control" %><br/>
+<%= form.submit "Submit",class:" btn btn-info"%>
 <% end %>
-
+</div>
+</div>
