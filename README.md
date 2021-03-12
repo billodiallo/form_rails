@@ -10,7 +10,7 @@ This project consist on a Ruby on Rails server that includes Controls, Views and
 - [x] Adjust associations between models
 - [x] Create migration files with required foreign keys.
 
-# Screenshoot
+## Screenshoot
 ![formdata1](https://user-images.githubusercontent.com/11162987/110908539-0457ff00-8320-11eb-9a24-48505689fbb7.JPG)
 ![form_data2](https://user-images.githubusercontent.com/11162987/110908543-06ba5900-8320-11eb-9a22-b2c6ca18c390.JPG)
 
@@ -38,16 +38,14 @@ To use THIS ACTIVE record project :
   ```
 * `cd` into `micro-reddit` directory and run `bundle install`
 
+## Built With
+- Ruby
+- Ruby on Rails
 
-
-### Built With
-Ruby on rails
-
-### Run app
+## Run app
 - Type bundle install in the root file of the project.
 - Type rails db:migrate in the root file of the project.
 - Type rails s in the root file of the project.
-
 
 <!-- CONTACT -->
 ## Contact
