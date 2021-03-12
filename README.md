@@ -9,6 +9,7 @@ This project consist on a Ruby on Rails server that includes Controls, Views and
 ![form_data2](https://user-images.githubusercontent.com/11162987/110908543-06ba5900-8320-11eb-9a22-b2c6ca18c390.JPG)
 
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -17,6 +18,7 @@ This project consist on a Ruby on Rails server that includes Controls, Views and
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
+
 ## Installation
 
 To use THIS ACTIVE record project :
